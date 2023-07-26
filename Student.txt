@@ -1,0 +1,7 @@
+Rohit Sharma, Class A
+Mahendra Singh Dhoni, Class B
+Virat Kholi, Class C
+Surya Kumar Yadav,Class D
+David Warner,Class E
+Andrew Russel,ClasS F
+
